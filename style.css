@@ -10,16 +10,13 @@
             color: #fff;
             padding: 50px;
             text-align: center;
+            align-items: center;
         }
       
         .profile-picture {
-            display: block;
-            height: 80%;
-            object-fit: cover;
             float:left;
-            max-width: fit-content;
+            max-width: 100%;
             border-radius:15%;
-            width:15%;
         }
                 
         h1 {
