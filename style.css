@@ -9,14 +9,14 @@
             display: flow-root;
             background-color: #292c38;
             color: #fff;
-            padding: 40px;
+            padding: 10px;
             text-align: center;
             align-items: center;
         }
       
         .profile-picture {
             float:left;
-            max-width: 15%;
+            max-width: 50%;
             border-radius:15%;
             align-items: center;
         }
