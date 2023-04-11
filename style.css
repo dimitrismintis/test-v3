@@ -12,11 +12,12 @@
             text-align: center;
         }
       
-        .header-container img {
+        .profile-picture {
             display: block;
             height: 80%;
             object-fit: cover;
             float:left;
+            max-width: fit-content;
             border-radius:15%;
             width:15%;
         }
